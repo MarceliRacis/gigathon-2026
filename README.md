@@ -99,7 +99,7 @@ gigathon-2026/
 ├── config.py        ← Stałe, konfiguracja trudności, typy pól
 ├── rover.py         ← Klasa łazika (stan, ruch, energia, historia)
 ├── world.py         ← Generator i mapa świata 2D
-├── events.py        ← Silnik zdarzeń losowych
+├── event_engine.py        ← Silnik zdarzeń losowych
 ├── display.py       ← Wszystkie funkcje wyświetlania / UI w terminalu
 ├── setup.py         ← Zbieranie parametrów od użytkownika (onboarding)
 ├── simulation.py    ← Główna pętla symulacji, warunki końcowe, scoring
@@ -113,11 +113,11 @@ main.py
 ├── display.py   ─────────────┐
 ├── setup.py     → rover.py   │
 │                → world.py   ├── lib.py
-│                → events.py  │
+│                → event_engine.py  │
 └── simulation.py             │
     ├── rover.py  ────────────┤
     ├── world.py  ────────────┤
-    ├── events.py ────────────┤
+    ├── event_engine.py ────────────┤
     └── display.py ───────────┘
          │
          └── config.py  (importowany przez wszystkie moduły)
