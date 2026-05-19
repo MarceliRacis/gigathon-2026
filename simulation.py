@@ -12,7 +12,7 @@ import lib as L
 import display as D
 from rover  import Rover
 from world  import World
-from events import EventEngine
+from event_engine import EventEngine
 from config import (
     DIFFICULTY_SETTINGS,
     SCORE_SUCCESS_BASE, SCORE_PER_ENERGY, SCORE_PER_STEP_LEFT,

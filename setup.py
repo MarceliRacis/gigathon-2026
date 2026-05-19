@@ -11,7 +11,7 @@ import lib as L
 import display as D
 from rover   import Rover
 from world   import World
-from events  import EventEngine
+from event_engine import EventEngine
 from config  import (
     DEFAULT_ROVER_NAME, DEFAULT_START_X, DEFAULT_START_Y,
     DEFAULT_ENERGY, DEFAULT_MAX_STEPS, DEFAULT_DIFFICULTY,
