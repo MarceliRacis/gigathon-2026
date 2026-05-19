@@ -8,7 +8,7 @@
 [![Stdlib Only](https://img.shields.io/badge/Zale%C5%BCno%C5%9Bci-brak%20(tylko%20stdlib)-success?style=for-the-badge&logo=checkmarx)](https://docs.python.org/3.11/library/index.html)
 [![Terminal](https://img.shields.io/badge/UI-Terminal%20%2F%20CLI-black?style=for-the-badge&logo=gnometerminal&logoColor=white)]()
 
-[![Gitea](https://img.shields.io/badge/Gitea-Oryginalne%20Repo-609926?style=for-the-badge&logo=gitea&logoColor=white)](https://git.racis.dev/marceliracis/gigathon-2026)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Oryginalne%20Repo-609926?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.racis.dev/marceliracis/gigathon-2026)
 [![GitHub Mirror](https://img.shields.io/badge/GitHub-Mirror-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceliRacis/gigathon-2026)
 
 > **Symulator misji łazika na dwuwymiarowej powierzchni Marsa.**  
@@ -209,7 +209,7 @@ Główna pętla `while running`:
 ### Pobieranie
 
 ```bash
-# Oryginalne repozytorium (Gitea)
+# Oryginalne repozytorium (Gitlab))
 git clone https://git.racis.dev/marceliracis/gigathon-2026.git
 
 # Mirror (GitHub)
@@ -451,7 +451,7 @@ EVENTS.append({
 
 | | Link |
 |---|---|
-| 📦 Oryginalne (Gitea) | [git.racis.dev/marceliracis/gigathon-2026](https://git.racis.dev/marceliracis/gigathon-2026) |
+| 📦 Oryginalne (Gitlab) | [git.racis.dev/marceliracis/gigathon-2026](https://git.racis.dev/marceliracis/gigathon-2026) |
 | 🪞 Mirror (GitHub) | [github.com/MarceliRacis/gigathon-2026](https://github.com/MarceliRacis/gigathon-2026) |
 
 ---
