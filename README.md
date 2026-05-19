@@ -459,7 +459,7 @@ EVENTS.append({
 <div align="center">
 
 **ARES-MISSION** — Gigathon 2026  
-Marceli Racis  
+Marceli Racis (racis.dev) 
 Python 3.11 · Stdlib Only · Terminal UI
 
 </div>
